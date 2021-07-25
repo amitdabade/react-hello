@@ -6,6 +6,8 @@ A simple react component that prints Hello, {username}!
 
 `npm i @amitdabade/react-hello --save`
 
+## Code
+
 ```
 import React from "react";
 import Hello from "@amitdabade/react-hello";

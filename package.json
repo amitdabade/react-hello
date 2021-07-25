@@ -1,7 +1,7 @@
 {
-  "name": "react-hello",
+  "name": "@amitdabade/react-hello",
   "version": "1.0.0",
-  "description": "A simple react component that prints Hello",
+  "description": "A simple react component that prints Hello, World!",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -10,8 +10,12 @@
     "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitdabade/react-hello.git"
+  },
   "author": "Amit Dabade",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-react": "^7.12.10",
