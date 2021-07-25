@@ -1,8 +1,8 @@
-# What is this?
+## What is this?
 
 A simple react component that prints Hello, {username}!
 
-# Installation
+## Installation
 
 `npm i @amitdabade/react-hello --save`
 
@@ -21,6 +21,10 @@ export default function ReactHello() {
 }
 
 ```
+
+## Demo
+
+https://codesandbox.io/s/react-hello-vnuw5
 
 ## Options
 
