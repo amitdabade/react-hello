@@ -10,7 +10,7 @@ A simple react component that prints Hello, {username}!
 
 ```
 import React from "react";
-import Hello from "@amitdabade/react-hello";
+import {Hello} from "@amitdabade/react-hello";
 
 export default function ReactHello() {
   return (
