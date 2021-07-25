@@ -9,16 +9,19 @@ A simple react component that prints Hello, {username}!
 ## Code
 
 ```
-import React from "react";
-import {Hello} from "@amitdabade/react-hello";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import { Hello } from "@amitdabade/react-hello";
 
-export default function ReactHello() {
-  return (
+function App() {
+   return (
     <div>
        <Hello name="Amit" />
     </div>
   )
 }
+
+ReactDOM.render(<App />, document.getElementById('root'));
 
 ```
 
