@@ -1,6 +1,6 @@
 {
   "name": "@amitdabade/react-hello",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple react component that prints Hello, World!",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
