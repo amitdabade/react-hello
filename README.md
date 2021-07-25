@@ -6,7 +6,6 @@ A simple react component that prints Hello, {username}!
 
 ```
 npm i @amitdabade/react-hello --save
-
 ````
 
 ## Code
@@ -25,13 +24,17 @@ function App() {
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
-
 ```
 
 ## Demo
 
-https://codesandbox.io/s/react-hello-vnuw5
+[Demo](https://codesandbox.io/s/react-hello-vnuw5)
 
 ## Options
 
 name : _string_ (Default: "World")
+
+## License:
+
+This project is licensed under the terms of the
+[MIT license](/LICENSE).
