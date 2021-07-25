@@ -2,13 +2,13 @@
 
 A simple react component that prints Hello, {username}!
 
-## Installation
+## Installation:
 
 ```
 npm i @amitdabade/react-hello --save
 ````
 
-## Code
+## Code:
 
 ```
 import React from 'react';
@@ -26,11 +26,11 @@ function App() {
 ReactDOM.render(<App />, document.getElementById('root'));
 ```
 
-## Demo
+## Demo:
 
 [Demo](https://codesandbox.io/s/react-hello-vnuw5)
 
-## Options
+## Options:
 
 name : _string_ (Default: "World")
 
