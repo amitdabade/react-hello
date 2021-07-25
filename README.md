@@ -4,7 +4,10 @@ A simple react component that prints Hello, {username}!
 
 ## Installation
 
-`npm i @amitdabade/react-hello --save`
+```
+npm i @amitdabade/react-hello --save
+
+````
 
 ## Code
 
@@ -31,4 +34,4 @@ https://codesandbox.io/s/react-hello-vnuw5
 
 ## Options
 
-- _name_ : _string_ (Default: "World")
+name : _string_ (Default: "World")
