@@ -1,6 +1,6 @@
 {
   "name": "@amitdabade/react-hello",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple react component that prints Hello, World!",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/amitdabade/react-hello.git"
   },
   "author": "Amit Dabade",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-react": "^7.12.10",
